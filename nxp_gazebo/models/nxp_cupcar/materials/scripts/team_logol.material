@@ -1,0 +1,19 @@
+material Logo/TEAML
+{
+    technique
+    {
+        pass
+        {
+        lighting on
+
+         ambient 0.9 0.9 0.9 1
+         diffuse 0.2 0.2 0.2 1
+         emissive 1.0 1.0 1.0 1
+            texture_unit
+            {
+                texture eagle.png
+                scale 1.0 1.0
+            }
+        }
+    }
+}
