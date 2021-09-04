@@ -1,0 +1,4 @@
+Invoking command in '/home/pr/nxpws/build/animated_person_xDir': /usr/bin/cmake /home/pr/nxpws/nxp_gazebo/custom_pluggins/person_animation_x_dir -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/animated_person_xDir
+Invoked command in '/home/pr/nxpws/build/animated_person_xDir' returned '0': /usr/bin/cmake /home/pr/nxpws/nxp_gazebo/custom_pluggins/person_animation_x_dir -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/animated_person_xDir
+Invoking command in '/home/pr/nxpws/build/animated_person_xDir': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_xDir -- -j8 -l8
+Invoked command in '/home/pr/nxpws/build/animated_person_xDir' returned '0': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_xDir -- -j8 -l8

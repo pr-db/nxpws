@@ -1,0 +1,28 @@
+[1.058s] Invoking command in '/home/pr/nxpws/build/nxp_cup_vision': AMENT_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/pr/nxpws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/nxp_cup_vision --editable --build-directory /home/pr/nxpws/build/nxp_cup_vision/build --no-deps install_data --install-dir /home/pr/nxpws/install/nxp_cup_vision
+[1.444s] /home/pr/.local/lib/python3.8/site-packages/setuptools/dist.py:642: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.444s]   warnings.warn(
+[1.444s] /home/pr/.local/lib/python3.8/site-packages/setuptools/dist.py:642: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[1.444s]   warnings.warn(
+[1.521s] running develop
+[1.813s] running egg_info
+[1.813s] creating nxp_cup_vision.egg-info
+[1.813s] writing nxp_cup_vision.egg-info/PKG-INFO
+[1.813s] writing dependency_links to nxp_cup_vision.egg-info/dependency_links.txt
+[1.813s] writing entry points to nxp_cup_vision.egg-info/entry_points.txt
+[1.813s] writing requirements to nxp_cup_vision.egg-info/requires.txt
+[1.813s] writing top-level names to nxp_cup_vision.egg-info/top_level.txt
+[1.815s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[1.867s] reading manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[1.867s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[1.903s] running build_ext
+[1.904s] Creating /home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages/nxp-cup-vision.egg-link (link to .)
+[1.904s] Installing nxp_track_vision script to /home/pr/nxpws/install/nxp_cup_vision/lib/nxp_cup_vision
+[1.905s] 
+[1.905s] Installed /home/pr/nxpws/build/nxp_cup_vision
+[1.905s] running install_data
+[1.905s] creating /home/pr/nxpws/install/nxp_cup_vision/share/ament_index
+[1.905s] creating /home/pr/nxpws/install/nxp_cup_vision/share/ament_index/resource_index
+[1.906s] creating /home/pr/nxpws/install/nxp_cup_vision/share/ament_index/resource_index/packages
+[1.906s] copying resource/nxp_cup_vision -> /home/pr/nxpws/install/nxp_cup_vision/share/ament_index/resource_index/packages
+[1.906s] copying package.xml -> /home/pr/nxpws/install/nxp_cup_vision/share/nxp_cup_vision
+[1.940s] Invoked command in '/home/pr/nxpws/build/nxp_cup_vision' returned '0': AMENT_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/pr/nxpws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/nxp_cup_vision --editable --build-directory /home/pr/nxpws/build/nxp_cup_vision/build --no-deps install_data --install-dir /home/pr/nxpws/install/nxp_cup_vision

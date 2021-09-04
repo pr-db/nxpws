@@ -1,0 +1,18 @@
+[0.624s] Invoking command in '/home/pr/nxpws/build/aim_line_follow': CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:/home/pr/nxpws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/robo_interfaces PYTHONPATH=/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:/home/pr/nxpws/build/nxp_cup_vision:/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/build/aim_line_follow:/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/track_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_vision/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_interfaces/lib/python3.8/site-packages:/home/pr/ros2ws/install/pubsub/lib/python3.8/site-packages:/home/pr/ros2ws/install/minipck/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/aim_line_follow --editable --build-directory /home/pr/nxpws/build/aim_line_follow/build --no-deps install_data --install-dir /home/pr/nxpws/install/aim_line_follow
+[0.991s] running develop
+[1.156s] running egg_info
+[1.156s] writing aim_line_follow.egg-info/PKG-INFO
+[1.156s] writing dependency_links to aim_line_follow.egg-info/dependency_links.txt
+[1.157s] writing entry points to aim_line_follow.egg-info/entry_points.txt
+[1.157s] writing requirements to aim_line_follow.egg-info/requires.txt
+[1.157s] writing top-level names to aim_line_follow.egg-info/top_level.txt
+[1.190s] reading manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+[1.191s] writing manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+[1.242s] running build_ext
+[1.242s] Creating /home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim-line-follow.egg-link (link to .)
+[1.243s] Installing image_processing script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+[1.243s] Installing line_follower script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+[1.243s] 
+[1.244s] Installed /home/pr/nxpws/build/aim_line_follow
+[1.244s] running install_data
+[1.272s] Invoked command in '/home/pr/nxpws/build/aim_line_follow' returned '0': CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:/home/pr/nxpws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/robo_interfaces PYTHONPATH=/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:/home/pr/nxpws/build/nxp_cup_vision:/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/build/aim_line_follow:/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/track_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_vision/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_interfaces/lib/python3.8/site-packages:/home/pr/ros2ws/install/pubsub/lib/python3.8/site-packages:/home/pr/ros2ws/install/minipck/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/aim_line_follow --editable --build-directory /home/pr/nxpws/build/aim_line_follow/build --no-deps install_data --install-dir /home/pr/nxpws/install/aim_line_follow

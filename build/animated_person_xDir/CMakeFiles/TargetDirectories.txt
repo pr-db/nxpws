@@ -1,0 +1,3 @@
+/home/pr/nxpws/build/animated_person_xDir/CMakeFiles/rebuild_cache.dir
+/home/pr/nxpws/build/animated_person_xDir/CMakeFiles/edit_cache.dir
+/home/pr/nxpws/build/animated_person_xDir/CMakeFiles/animated_person_xDir.dir

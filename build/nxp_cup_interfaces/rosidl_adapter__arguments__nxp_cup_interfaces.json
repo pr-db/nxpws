@@ -1,0 +1,7 @@
+{
+  "package_name": "nxp_cup_interfaces",
+  "non_idl_tuples": [
+    "/home/pr/nxpws/src/nxp_cup_interfaces:msg/PixyVector.msg",
+    "/home/pr/nxpws/src/nxp_cup_interfaces:msg/NxpAim.msg"
+  ]
+}

@@ -1,0 +1,25 @@
+running develop
+running egg_info
+writing ../../build/aim_line_follow/aim_line_follow.egg-info/PKG-INFO
+writing dependency_links to ../../build/aim_line_follow/aim_line_follow.egg-info/dependency_links.txt
+writing entry points to ../../build/aim_line_follow/aim_line_follow.egg-info/entry_points.txt
+writing requirements to ../../build/aim_line_follow/aim_line_follow.egg-info/requires.txt
+writing top-level names to ../../build/aim_line_follow/aim_line_follow.egg-info/top_level.txt
+adding license file 'LICENSE' (matched pattern 'LICEN[CS]E*')
+reading manifest file '../../build/aim_line_follow/aim_line_follow.egg-info/SOURCES.txt'
+writing manifest file '../../build/aim_line_follow/aim_line_follow.egg-info/SOURCES.txt'
+running build
+running build_py
+copying aim_line_follow/aim_line_follow.py -> /home/pr/nxpws/build/aim_line_follow/build/lib/aim_line_follow
+running install
+running install_lib
+copying /home/pr/nxpws/build/aim_line_follow/build/lib/aim_line_follow/aim_line_follow.py -> /home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim_line_follow
+byte-compiling /home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim_line_follow/aim_line_follow.py to aim_line_follow.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim_line_follow-0.0.1-py3.8.egg-info' (and everything under it)
+Copying ../../build/aim_line_follow/aim_line_follow.egg-info to /home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim_line_follow-0.0.1-py3.8.egg-info
+running install_scripts
+Installing image_processing script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+Installing line_follower script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+writing list of installed files to '/home/pr/nxpws/build/aim_line_follow/install.log'

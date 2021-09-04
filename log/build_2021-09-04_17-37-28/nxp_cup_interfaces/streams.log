@@ -1,0 +1,105 @@
+[0.043s] Invoking command in '/home/pr/nxpws/build/nxp_cup_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/nxpws/install/nxp_cup_vision:/home/pr/nxpws/install/aim_line_follow:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --build /home/pr/nxpws/build/nxp_cup_interfaces -- -j8 -l8
+[0.135s] [ 10%] Built target nxp_cup_interfaces__rosidl_generator_c
+[0.140s] [ 12%] Built target nxp_cup_interfaces__cpp
+[0.174s] [ 23%] Built target nxp_cup_interfaces__rosidl_typesupport_c
+[0.174s] [ 33%] Built target nxp_cup_interfaces__rosidl_typesupport_introspection_c
+[0.190s] [ 43%] Built target nxp_cup_interfaces__rosidl_typesupport_introspection_cpp
+[0.193s] [ 53%] Built target nxp_cup_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.202s] [ 64%] Built target nxp_cup_interfaces__rosidl_typesupport_cpp
+[0.224s] [ 74%] Built target nxp_cup_interfaces__rosidl_typesupport_fastrtps_c
+[0.251s] [ 74%] Built target nxp_cup_interfaces
+[0.277s] [ 76%] Built target nxp_cup_interfaces__py
+[0.306s] [ 84%] Built target nxp_cup_interfaces__python
+[0.337s] [ 89%] Built target nxp_cup_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.338s] [ 94%] Built target nxp_cup_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.338s] [100%] Built target nxp_cup_interfaces__rosidl_typesupport_c__pyext
+[0.348s] Invoked command in '/home/pr/nxpws/build/nxp_cup_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/nxpws/install/nxp_cup_vision:/home/pr/nxpws/install/aim_line_follow:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --build /home/pr/nxpws/build/nxp_cup_interfaces -- -j8 -l8
+[0.403s] Invoking command in '/home/pr/nxpws/build/nxp_cup_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/nxpws/install/nxp_cup_vision:/home/pr/nxpws/install/aim_line_follow:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --install /home/pr/nxpws/build/nxp_cup_interfaces
+[0.414s] -- Install configuration: ""
+[0.418s] -- Execute custom install script
+[0.419s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/ament_index/resource_index/rosidl_interfaces/nxp_cup_interfaces
+[0.419s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__functions.h
+[0.419s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__struct.h
+[0.419s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__type_support.h
+[0.419s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__functions.h
+[0.419s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__struct.h
+[0.419s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__type_support.h
+[0.420s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/nxp_aim.h
+[0.420s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/pixy_vector.h
+[0.420s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.420s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/library_path.sh
+[0.421s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/library_path.dsv
+[0.421s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__rosidl_typesupport_fastrtps_c.h
+[0.421s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__rosidl_typesupport_fastrtps_c.h
+[0.421s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.421s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.421s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__rosidl_typesupport_fastrtps_cpp.hpp
+[0.421s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__rosidl_typesupport_fastrtps_cpp.hpp
+[0.422s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.422s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.422s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__rosidl_typesupport_introspection_c.h
+[0.422s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__rosidl_typesupport_introspection_c.h
+[0.422s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.423s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__builder.hpp
+[0.423s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__struct.hpp
+[0.423s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__traits.hpp
+[0.423s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__builder.hpp
+[0.424s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__struct.hpp
+[0.424s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__traits.hpp
+[0.424s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/nxp_aim.hpp
+[0.424s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/pixy_vector.hpp
+[0.425s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/nxp_aim__rosidl_typesupport_introspection_cpp.hpp
+[0.426s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/include/nxp_cup_interfaces/msg/detail/pixy_vector__rosidl_typesupport_introspection_cpp.hpp
+[0.427s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/pythonpath.sh
+[0.427s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/pythonpath.dsv
+[0.427s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages/nxp_cup_interfaces/__init__.py
+[0.427s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages/nxp_cup_interfaces/msg/__init__.py
+[0.428s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages/nxp_cup_interfaces/msg/_nxp_aim.py
+[0.428s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages/nxp_cup_interfaces/msg/_pixy_vector.py
+[0.428s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages/nxp_cup_interfaces/nxp_cup_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[0.429s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages/nxp_cup_interfaces/nxp_cup_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[0.430s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages/nxp_cup_interfaces/nxp_cup_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[0.430s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__python.so
+[0.431s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/msg/PixyVector.idl
+[0.431s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/msg/NxpAim.idl
+[0.431s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/msg/PixyVector.msg
+[0.432s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/msg/NxpAim.msg
+[0.432s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/ament_index/resource_index/package_run_dependencies/nxp_cup_interfaces
+[0.433s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/ament_index/resource_index/parent_prefix_path/nxp_cup_interfaces
+[0.433s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/ament_prefix_path.sh
+[0.433s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/ament_prefix_path.dsv
+[0.433s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/path.sh
+[0.434s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/environment/path.dsv
+[0.434s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/local_setup.bash
+[0.434s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/local_setup.sh
+[0.435s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/local_setup.zsh
+[0.435s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/local_setup.dsv
+[0.435s] -- Symlinking: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/package.dsv
+[0.445s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/ament_index/resource_index/packages/nxp_cup_interfaces
+[0.445s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.446s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.446s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.446s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.446s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.446s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.447s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.447s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfacesConfig.cmake
+[0.447s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfacesConfig-version.cmake
+[0.447s] -- Up-to-date symlink: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/package.xml
+[0.448s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__rosidl_generator_c.so
+[0.448s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__rosidl_typesupport_introspection_c.so
+[0.448s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__rosidl_typesupport_c.so
+[0.449s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.449s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/lib/libnxp_cup_interfaces__rosidl_typesupport_cpp.so
+[0.488s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_generator_cExport.cmake
+[0.488s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.488s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.488s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.488s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_cExport.cmake
+[0.488s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.488s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_generator_cppExport.cmake
+[0.489s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.489s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.489s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_cppExport.cmake
+[0.489s] -- Up-to-date: /home/pr/nxpws/install/nxp_cup_interfaces/share/nxp_cup_interfaces/cmake/nxp_cup_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.493s] Invoked command in '/home/pr/nxpws/build/nxp_cup_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/nxpws/install/nxp_cup_vision:/home/pr/nxpws/install/aim_line_follow:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --install /home/pr/nxpws/build/nxp_cup_interfaces

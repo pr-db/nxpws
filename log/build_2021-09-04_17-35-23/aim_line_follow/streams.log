@@ -1,0 +1,29 @@
+[1.076s] Invoking command in '/home/pr/nxpws/build/aim_line_follow': AMENT_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/pr/nxpws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/aim_line_follow --editable --build-directory /home/pr/nxpws/build/aim_line_follow/build --no-deps install_data --install-dir /home/pr/nxpws/install/aim_line_follow
+[1.317s] /home/pr/.local/lib/python3.8/site-packages/setuptools/dist.py:642: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.317s]   warnings.warn(
+[1.317s] /home/pr/.local/lib/python3.8/site-packages/setuptools/dist.py:642: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[1.317s]   warnings.warn(
+[1.372s] running develop
+[1.541s] running egg_info
+[1.542s] creating aim_line_follow.egg-info
+[1.542s] writing aim_line_follow.egg-info/PKG-INFO
+[1.542s] writing dependency_links to aim_line_follow.egg-info/dependency_links.txt
+[1.542s] writing entry points to aim_line_follow.egg-info/entry_points.txt
+[1.542s] writing requirements to aim_line_follow.egg-info/requires.txt
+[1.542s] writing top-level names to aim_line_follow.egg-info/top_level.txt
+[1.545s] writing manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+[1.579s] reading manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+[1.579s] writing manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+[1.623s] running build_ext
+[1.623s] Creating /home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim-line-follow.egg-link (link to .)
+[1.624s] Installing image_processing script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+[1.624s] Installing line_follower script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+[1.624s] 
+[1.625s] Installed /home/pr/nxpws/build/aim_line_follow
+[1.625s] running install_data
+[1.625s] creating /home/pr/nxpws/install/aim_line_follow/share/ament_index
+[1.625s] creating /home/pr/nxpws/install/aim_line_follow/share/ament_index/resource_index
+[1.625s] creating /home/pr/nxpws/install/aim_line_follow/share/ament_index/resource_index/packages
+[1.625s] copying resource/aim_line_follow -> /home/pr/nxpws/install/aim_line_follow/share/ament_index/resource_index/packages
+[1.625s] copying package.xml -> /home/pr/nxpws/install/aim_line_follow/share/aim_line_follow
+[1.662s] Invoked command in '/home/pr/nxpws/build/aim_line_follow' returned '0': AMENT_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/pr/nxpws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/aim_line_follow --editable --build-directory /home/pr/nxpws/build/aim_line_follow/build --no-deps install_data --install-dir /home/pr/nxpws/install/aim_line_follow

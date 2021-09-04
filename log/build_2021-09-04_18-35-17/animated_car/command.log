@@ -1,0 +1,2 @@
+Invoking command in '/home/pr/nxpws/build/animated_car': /usr/bin/cmake --build /home/pr/nxpws/build/animated_car -- -j8 -l8
+Invoked command in '/home/pr/nxpws/build/animated_car' returned '0': /usr/bin/cmake --build /home/pr/nxpws/build/animated_car -- -j8 -l8

@@ -1,0 +1,17 @@
+[0.661s] Invoking command in '/home/pr/nxpws/build/nxp_cup_vision': CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:/home/pr/nxpws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/robo_interfaces PYTHONPATH=/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:/home/pr/nxpws/build/nxp_cup_vision:/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/build/aim_line_follow:/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/track_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_vision/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_interfaces/lib/python3.8/site-packages:/home/pr/ros2ws/install/pubsub/lib/python3.8/site-packages:/home/pr/ros2ws/install/minipck/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/nxp_cup_vision --editable --build-directory /home/pr/nxpws/build/nxp_cup_vision/build --no-deps install_data --install-dir /home/pr/nxpws/install/nxp_cup_vision
+[1.005s] running develop
+[1.211s] running egg_info
+[1.211s] writing nxp_cup_vision.egg-info/PKG-INFO
+[1.211s] writing dependency_links to nxp_cup_vision.egg-info/dependency_links.txt
+[1.211s] writing entry points to nxp_cup_vision.egg-info/entry_points.txt
+[1.211s] writing requirements to nxp_cup_vision.egg-info/requires.txt
+[1.211s] writing top-level names to nxp_cup_vision.egg-info/top_level.txt
+[1.245s] reading manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[1.246s] writing manifest file 'nxp_cup_vision.egg-info/SOURCES.txt'
+[1.283s] running build_ext
+[1.283s] Creating /home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages/nxp-cup-vision.egg-link (link to .)
+[1.284s] Installing nxp_track_vision script to /home/pr/nxpws/install/nxp_cup_vision/lib/nxp_cup_vision
+[1.284s] 
+[1.284s] Installed /home/pr/nxpws/build/nxp_cup_vision
+[1.285s] running install_data
+[1.311s] Invoked command in '/home/pr/nxpws/build/nxp_cup_vision' returned '0': CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:/home/pr/nxpws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/sim_gazebo_bringup:/home/pr/ros2ws/install/robo_interfaces PYTHONPATH=/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:/home/pr/nxpws/build/nxp_cup_vision:/home/pr/nxpws/install/nxp_cup_vision/lib/python3.8/site-packages:/home/pr/nxpws/build/aim_line_follow:/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/track_follow/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_vision/lib/python3.8/site-packages:/home/pr/ros2ws/install/robo_interfaces/lib/python3.8/site-packages:/home/pr/ros2ws/install/pubsub/lib/python3.8/site-packages:/home/pr/ros2ws/install/minipck/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/nxp_cup_vision --editable --build-directory /home/pr/nxpws/build/nxp_cup_vision/build --no-deps install_data --install-dir /home/pr/nxpws/install/nxp_cup_vision

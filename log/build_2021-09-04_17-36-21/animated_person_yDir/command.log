@@ -1,0 +1,2 @@
+Invoking command in '/home/pr/nxpws/build/animated_person_yDir': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_yDir -- -j8 -l8
+Invoked command in '/home/pr/nxpws/build/animated_person_yDir' returned '0': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_yDir -- -j8 -l8

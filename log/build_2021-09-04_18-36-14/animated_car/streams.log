@@ -1,0 +1,3 @@
+[0.036s] Invoking command in '/home/pr/nxpws/build/animated_car': /usr/bin/cmake --build /home/pr/nxpws/build/animated_car -- -j8 -l8
+[0.119s] [100%] Built target animated_car
+[0.150s] Invoked command in '/home/pr/nxpws/build/animated_car' returned '0': /usr/bin/cmake --build /home/pr/nxpws/build/animated_car -- -j8 -l8

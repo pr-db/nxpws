@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from nxp_cup_interfaces/msg/NxpAim.msg
+// generated code does not contain a copyright notice
+
+
+module nxp_cup_interfaces {
+  module msg {
+    struct NxpAim {
+      uint64 timestamp;
+
+      @verbatim (language="comment", text=
+        " IDs for sign detection")
+      uint8 eagle_stop;
+
+      uint8 eagle_left;
+
+      uint8 eagle_right;
+
+      uint8 eagle_straight;
+
+      @verbatim (language="comment", text=
+        " IDs for color detection")
+      uint8 eagle_green;
+
+      uint8 eagle_red;
+    };
+  };
+};

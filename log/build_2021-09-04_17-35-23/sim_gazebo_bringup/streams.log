@@ -1,0 +1,45 @@
+[0.022s] Invoking command in '/home/pr/nxpws/build/sim_gazebo_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake /home/pr/nxpws/src/sim_gazebo_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/sim_gazebo_bringup
+[0.163s] -- The C compiler identification is GNU 9.3.0
+[0.279s] -- The CXX compiler identification is GNU 9.3.0
+[0.286s] -- Check for working C compiler: /usr/bin/cc
+[0.367s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.368s] -- Detecting C compiler ABI info
+[0.451s] -- Detecting C compiler ABI info - done
+[0.474s] -- Detecting C compile features
+[0.474s] -- Detecting C compile features - done
+[0.478s] -- Check for working CXX compiler: /usr/bin/c++
+[0.583s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.585s] -- Detecting CXX compiler ABI info
+[0.697s] -- Detecting CXX compiler ABI info - done
+[0.723s] -- Detecting CXX compile features
+[0.724s] -- Detecting CXX compile features - done
+[0.728s] -- Found ament_cmake: 0.9.8 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.765s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.765s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.061s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.195s] -- Configuring done
+[1.195s] -- Generating done
+[1.196s] -- Build files have been written to: /home/pr/nxpws/build/sim_gazebo_bringup
+[1.204s] Invoked command in '/home/pr/nxpws/build/sim_gazebo_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake /home/pr/nxpws/src/sim_gazebo_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/sim_gazebo_bringup
+[1.205s] Invoking command in '/home/pr/nxpws/build/sim_gazebo_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --build /home/pr/nxpws/build/sim_gazebo_bringup -- -j8 -l8
+[1.259s] Invoked command in '/home/pr/nxpws/build/sim_gazebo_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --build /home/pr/nxpws/build/sim_gazebo_bringup -- -j8 -l8
+[1.303s] Invoking command in '/home/pr/nxpws/build/sim_gazebo_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --install /home/pr/nxpws/build/sim_gazebo_bringup
+[1.314s] -- Install configuration: ""
+[1.314s] -- Execute custom install script
+[1.316s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup//launch/sim_gazebo.launch.py
+[1.332s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/ament_index/resource_index/package_run_dependencies/sim_gazebo_bringup
+[1.343s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/ament_index/resource_index/parent_prefix_path/sim_gazebo_bringup
+[1.356s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/ament_prefix_path.sh
+[1.368s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/ament_prefix_path.dsv
+[1.380s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/path.sh
+[1.392s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/environment/path.dsv
+[1.404s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.bash
+[1.417s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.sh
+[1.429s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.zsh
+[1.440s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/local_setup.dsv
+[1.452s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/package.dsv
+[1.466s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/ament_index/resource_index/packages/sim_gazebo_bringup
+[1.482s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/cmake/sim_gazebo_bringupConfig.cmake
+[1.495s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/cmake/sim_gazebo_bringupConfig-version.cmake
+[1.508s] -- Symlinking: /home/pr/nxpws/install/sim_gazebo_bringup/share/sim_gazebo_bringup/package.xml
+[1.527s] Invoked command in '/home/pr/nxpws/build/sim_gazebo_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pr/ros2ws/install/track_follow:/home/pr/ros2ws/install/robo_vision:/home/pr/ros2ws/install/pubsub:/home/pr/ros2ws/install/minipck:/opt/ros/foxy /usr/bin/cmake --install /home/pr/nxpws/build/sim_gazebo_bringup

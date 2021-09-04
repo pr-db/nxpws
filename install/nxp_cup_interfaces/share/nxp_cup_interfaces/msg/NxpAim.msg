@@ -1,0 +1,1 @@
+/home/pr/nxpws/src/nxp_cup_interfaces/msg/NxpAim.msg

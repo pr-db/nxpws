@@ -1,0 +1,91 @@
+[0.023s] Invoking command in '/home/pr/nxpws/build/animated_person_yDir': /usr/bin/cmake /home/pr/nxpws/nxp_gazebo/custom_pluggins/person_animation_y_dir -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/animated_person_yDir
+[0.162s] -- The C compiler identification is GNU 9.3.0
+[0.276s] -- The CXX compiler identification is GNU 9.3.0
+[0.286s] -- Check for working C compiler: /usr/bin/cc
+[0.369s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.370s] -- Detecting C compiler ABI info
+[0.447s] -- Detecting C compiler ABI info - done
+[0.466s] -- Detecting C compile features
+[0.467s] -- Detecting C compile features - done
+[0.473s] -- Check for working CXX compiler: /usr/bin/c++
+[0.576s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.580s] -- Detecting CXX compiler ABI info
+[0.686s] -- Detecting CXX compiler ABI info - done
+[0.710s] -- Detecting CXX compile features
+[0.712s] -- Detecting CXX compile features - done
+[0.720s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[0.727s] -- Checking for module 'bullet>=2.82'
+[0.746s] --   Found bullet, version 2.88
+[0.894s] -- Found ccd: /usr/include (found suitable version "2.0", minimum required is "2.0") 
+[0.963s] -- Found fcl: /usr/include (found suitable version "0.5.0", minimum required is "0.3.2") 
+[1.033s] -- Found assimp: /usr/include (found version "5.0.0") 
+[1.069s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.519s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found suitable version "1.71.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[1.558s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.6.1") 
+[1.563s] -- Looking for ignition-math6 -- found version 6.8.0
+[1.569s] -- Searching for dependencies of ignition-math6
+[1.572s] -- Looking for OGRE...
+[1.579s] -- OGRE_PREFIX_WATCH changed.
+[1.579s] -- Checking for module 'OGRE'
+[1.597s] --   Found OGRE, version 1.9.0
+[1.638s] -- Found Ogre Ghadamon (1.9.0)
+[1.647s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.661s] -- Looking for OGRE_Paging...
+[1.669s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.669s] -- Looking for OGRE_Terrain...
+[1.676s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.676s] -- Looking for OGRE_Property...
+[1.684s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.684s] -- Looking for OGRE_RTShaderSystem...
+[1.691s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.691s] -- Looking for OGRE_Volume...
+[1.699s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.699s] -- Looking for OGRE_Overlay...
+[1.708s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.946s] -- Looking for ignition-math6 -- found version 6.8.0
+[1.948s] -- Looking for ignition-transport8 -- found version 8.2.0
+[1.949s] -- Searching for dependencies of ignition-transport8
+[1.971s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.6.1", minimum required is "3") 
+[1.984s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.988s] -- Checking for module 'libzmq >= 4'
+[2.005s] --   Found libzmq , version 4.3.2
+[2.054s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[2.060s] -- Checking for module 'uuid'
+[2.080s] --   Found uuid, version 2.34.0
+[2.134s] -- Found UUID: TRUE  
+[2.136s] -- Looking for ignition-msgs5 -- found version 5.7.0
+[2.137s] -- Searching for dependencies of ignition-msgs5
+[2.160s] -- Looking for ignition-math6 -- found version 6.8.0
+[2.166s] -- Checking for module 'tinyxml2'
+[2.185s] --   Found tinyxml2, version 6.2.0
+[2.235s] -- Looking for ignition-msgs5 -- found version 5.7.0
+[2.237s] -- Looking for ignition-common3 -- found version 3.13.1
+[2.239s] -- Searching for dependencies of ignition-common3
+[2.239s] -- Looking for dlfcn.h - found
+[2.241s] -- Looking for libdl - found
+[2.243s] -- Found DL: TRUE  
+[2.251s] -- Searching for <ignition-common3> component [graphics]
+[2.254s] -- Looking for ignition-common3-graphics -- found version 3.13.1
+[2.255s] -- Searching for dependencies of ignition-common3-graphics
+[2.255s] -- Looking for ignition-math6 -- found version 6.8.0
+[2.258s] -- Looking for ignition-fuel_tools4 -- found version 4.3.0
+[2.259s] -- Searching for dependencies of ignition-fuel_tools4
+[2.354s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.68.0")  
+[2.358s] -- Checking for module 'jsoncpp'
+[2.382s] --   Found jsoncpp, version 1.7.4
+[2.429s] -- Found JSONCPP: TRUE  
+[2.437s] -- Checking for module 'libzip'
+[2.453s] --   Found libzip, version 1.5.1
+[2.501s] -- Found ZIP: TRUE  
+[2.502s] -- Looking for ignition-common3 -- found version 3.13.1
+[2.502s] -- Looking for ignition-msgs5 -- found version 5.7.0
+[2.505s] -- Configuring done
+[2.515s] -- Generating done
+[2.517s] -- Build files have been written to: /home/pr/nxpws/build/animated_person_yDir
+[2.527s] Invoked command in '/home/pr/nxpws/build/animated_person_yDir' returned '0': /usr/bin/cmake /home/pr/nxpws/nxp_gazebo/custom_pluggins/person_animation_y_dir -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/animated_person_yDir
+[2.530s] Invoking command in '/home/pr/nxpws/build/animated_person_yDir': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_yDir -- -j8 -l8
+[2.571s] [35m[1mScanning dependencies of target animated_person_yDir[0m
+[2.748s] [ 50%] [32mBuilding CXX object CMakeFiles/animated_person_yDir.dir/animated_person_yDir.cc.o[0m
+[13.859s] [100%] [32m[1mLinking CXX shared library libanimated_person_yDir.so[0m
+[14.143s] [100%] Built target animated_person_yDir
+[14.155s] Invoked command in '/home/pr/nxpws/build/animated_person_yDir' returned '0': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_yDir -- -j8 -l8

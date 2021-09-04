@@ -1,0 +1,18 @@
+[0.591s] Invoking command in '/home/pr/nxpws/build/aim_line_follow': AMENT_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/pr/nxpws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/aim_line_follow --editable --build-directory /home/pr/nxpws/build/aim_line_follow/build --no-deps install_data --install-dir /home/pr/nxpws/install/aim_line_follow
+[0.904s] running develop
+[1.100s] running egg_info
+[1.100s] writing aim_line_follow.egg-info/PKG-INFO
+[1.101s] writing dependency_links to aim_line_follow.egg-info/dependency_links.txt
+[1.101s] writing entry points to aim_line_follow.egg-info/entry_points.txt
+[1.101s] writing requirements to aim_line_follow.egg-info/requires.txt
+[1.101s] writing top-level names to aim_line_follow.egg-info/top_level.txt
+[1.135s] reading manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+[1.136s] writing manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+[1.171s] running build_ext
+[1.172s] Creating /home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim-line-follow.egg-link (link to .)
+[1.173s] Installing image_processing script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+[1.173s] Installing line_follower script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+[1.173s] 
+[1.173s] Installed /home/pr/nxpws/build/aim_line_follow
+[1.173s] running install_data
+[1.208s] Invoked command in '/home/pr/nxpws/build/aim_line_follow' returned '0': AMENT_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pr/nxpws/install/nxp_cup_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/pr/nxpws/install/nxp_cup_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages:/home/pr/nxpws/install/nxp_cup_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/pr/nxpws/install/aim_line_follow --editable --build-directory /home/pr/nxpws/build/aim_line_follow/build --no-deps install_data --install-dir /home/pr/nxpws/install/aim_line_follow

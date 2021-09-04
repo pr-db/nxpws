@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing aim_line_follow.egg-info/PKG-INFO
+writing dependency_links to aim_line_follow.egg-info/dependency_links.txt
+writing entry points to aim_line_follow.egg-info/entry_points.txt
+writing requirements to aim_line_follow.egg-info/requires.txt
+writing top-level names to aim_line_follow.egg-info/top_level.txt
+reading manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+writing manifest file 'aim_line_follow.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/pr/nxpws/install/aim_line_follow/lib/python3.8/site-packages/aim-line-follow.egg-link (link to .)
+Installing image_processing script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+Installing line_follower script to /home/pr/nxpws/install/aim_line_follow/lib/aim_line_follow
+
+Installed /home/pr/nxpws/build/aim_line_follow
+running install_data

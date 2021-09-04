@@ -1,0 +1,4 @@
+[console_scripts]
+image_processing = aim_line_follow.image_processing:main
+line_follower = aim_line_follow.aim_line_follow:main
+

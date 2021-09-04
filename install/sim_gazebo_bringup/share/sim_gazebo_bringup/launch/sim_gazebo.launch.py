@@ -1,0 +1,1 @@
+/home/pr/nxpws/src/sim_gazebo_bringup/launch/sim_gazebo.launch.py

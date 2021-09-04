@@ -1,0 +1,3 @@
+[0.032s] Invoking command in '/home/pr/nxpws/build/animated_person_xDir': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_xDir -- -j8 -l8
+[0.137s] [100%] Built target animated_person_xDir
+[0.151s] Invoked command in '/home/pr/nxpws/build/animated_person_xDir' returned '0': /usr/bin/cmake --build /home/pr/nxpws/build/animated_person_xDir -- -j8 -l8

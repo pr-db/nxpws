@@ -1,0 +1,91 @@
+[0.024s] Invoking command in '/home/pr/nxpws/build/animated_car': /usr/bin/cmake /home/pr/nxpws/nxp_gazebo/custom_pluggins/car_animation -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/animated_car
+[0.177s] -- The C compiler identification is GNU 9.3.0
+[0.283s] -- The CXX compiler identification is GNU 9.3.0
+[0.291s] -- Check for working C compiler: /usr/bin/cc
+[0.376s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.378s] -- Detecting C compiler ABI info
+[0.466s] -- Detecting C compiler ABI info - done
+[0.490s] -- Detecting C compile features
+[0.491s] -- Detecting C compile features - done
+[0.496s] -- Check for working CXX compiler: /usr/bin/c++
+[0.605s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.606s] -- Detecting CXX compiler ABI info
+[0.724s] -- Detecting CXX compiler ABI info - done
+[0.744s] -- Detecting CXX compile features
+[0.745s] -- Detecting CXX compile features - done
+[0.754s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[0.762s] -- Checking for module 'bullet>=2.82'
+[0.781s] --   Found bullet, version 2.88
+[0.931s] -- Found ccd: /usr/include (found suitable version "2.0", minimum required is "2.0") 
+[1.001s] -- Found fcl: /usr/include (found suitable version "0.5.0", minimum required is "0.3.2") 
+[1.067s] -- Found assimp: /usr/include (found version "5.0.0") 
+[1.103s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[1.501s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found suitable version "1.71.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[1.544s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.6.1") 
+[1.551s] -- Looking for ignition-math6 -- found version 6.8.0
+[1.560s] -- Searching for dependencies of ignition-math6
+[1.563s] -- Looking for OGRE...
+[1.565s] -- OGRE_PREFIX_WATCH changed.
+[1.570s] -- Checking for module 'OGRE'
+[1.594s] --   Found OGRE, version 1.9.0
+[1.637s] -- Found Ogre Ghadamon (1.9.0)
+[1.648s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.661s] -- Looking for OGRE_Paging...
+[1.673s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.674s] -- Looking for OGRE_Terrain...
+[1.686s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.686s] -- Looking for OGRE_Property...
+[1.698s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.698s] -- Looking for OGRE_RTShaderSystem...
+[1.705s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.705s] -- Looking for OGRE_Volume...
+[1.712s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.713s] -- Looking for OGRE_Overlay...
+[1.719s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.879s] -- Looking for ignition-math6 -- found version 6.8.0
+[1.881s] -- Looking for ignition-transport8 -- found version 8.2.0
+[1.882s] -- Searching for dependencies of ignition-transport8
+[1.901s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found suitable version "3.6.1", minimum required is "3") 
+[1.912s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[1.916s] -- Checking for module 'libzmq >= 4'
+[1.933s] --   Found libzmq , version 4.3.2
+[1.978s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[1.985s] -- Checking for module 'uuid'
+[2.005s] --   Found uuid, version 2.34.0
+[2.055s] -- Found UUID: TRUE  
+[2.058s] -- Looking for ignition-msgs5 -- found version 5.7.0
+[2.060s] -- Searching for dependencies of ignition-msgs5
+[2.086s] -- Looking for ignition-math6 -- found version 6.8.0
+[2.092s] -- Checking for module 'tinyxml2'
+[2.110s] --   Found tinyxml2, version 6.2.0
+[2.171s] -- Looking for ignition-msgs5 -- found version 5.7.0
+[2.171s] -- Looking for ignition-common3 -- found version 3.13.1
+[2.172s] -- Searching for dependencies of ignition-common3
+[2.172s] -- Looking for dlfcn.h - found
+[2.174s] -- Looking for libdl - found
+[2.176s] -- Found DL: TRUE  
+[2.185s] -- Searching for <ignition-common3> component [graphics]
+[2.187s] -- Looking for ignition-common3-graphics -- found version 3.13.1
+[2.188s] -- Searching for dependencies of ignition-common3-graphics
+[2.189s] -- Looking for ignition-math6 -- found version 6.8.0
+[2.193s] -- Looking for ignition-fuel_tools4 -- found version 4.3.0
+[2.193s] -- Searching for dependencies of ignition-fuel_tools4
+[2.290s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.68.0")  
+[2.301s] -- Checking for module 'jsoncpp'
+[2.321s] --   Found jsoncpp, version 1.7.4
+[2.375s] -- Found JSONCPP: TRUE  
+[2.382s] -- Checking for module 'libzip'
+[2.402s] --   Found libzip, version 1.5.1
+[2.452s] -- Found ZIP: TRUE  
+[2.452s] -- Looking for ignition-common3 -- found version 3.13.1
+[2.453s] -- Looking for ignition-msgs5 -- found version 5.7.0
+[2.455s] -- Configuring done
+[2.468s] -- Generating done
+[2.470s] -- Build files have been written to: /home/pr/nxpws/build/animated_car
+[2.489s] Invoked command in '/home/pr/nxpws/build/animated_car' returned '0': /usr/bin/cmake /home/pr/nxpws/nxp_gazebo/custom_pluggins/car_animation -DCMAKE_INSTALL_PREFIX=/home/pr/nxpws/install/animated_car
+[2.490s] Invoking command in '/home/pr/nxpws/build/animated_car': /usr/bin/cmake --build /home/pr/nxpws/build/animated_car -- -j8 -l8
+[2.539s] [35m[1mScanning dependencies of target animated_car[0m
+[2.797s] [ 50%] [32mBuilding CXX object CMakeFiles/animated_car.dir/animated_car.cc.o[0m
+[13.569s] [100%] [32m[1mLinking CXX shared library libanimated_car.so[0m
+[13.921s] [100%] Built target animated_car
+[13.933s] Invoked command in '/home/pr/nxpws/build/animated_car' returned '0': /usr/bin/cmake --build /home/pr/nxpws/build/animated_car -- -j8 -l8
